@@ -1,6 +1,9 @@
 # Breast Cancer Diagnosis with ANN
 With the Breast Cancer Wisconsin Dataset, an Artificial Neural Network model is created to classify the diagnosis whether the cancer is benign (B) or malignant (M).
 
+![image](https://user-images.githubusercontent.com/100325884/163186865-83662a16-b221-4df0-acb5-326e02af8655.png)
+
+
 ## IDE and Framework
 This project is created using Sypder as the main IDE. The main frameworks used in this project are Pandas, Scikit-learn and TensorFlow Keras.
 
