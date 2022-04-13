@@ -5,13 +5,13 @@ With the Breast Cancer Wisconsin Dataset, an Artificial Neural Network model is 
 This project is created using Sypder as the main IDE. The main frameworks used in this project are Pandas, Scikit-learn and TensorFlow Keras.
 
 ## Methodology
-### Data Preprocessing
+### 1. Data Preprocessing
 The datasets are cleaned first by removing unwanted features and label is encoded with label encoder
 
-### Data Pipeline
+### 2. Data Pipeline
 Data is then split into train-test sets, with a ratio of 70:30.
 
-### Model Pipeline
+### 3. Model Pipeline
 A feedforward neural network is constructed that is catered for classification problem. The structure of the model is fairly simple with three types of layers:
 - Input layer
 - Hidden layer
